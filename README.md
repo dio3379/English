@@ -1001,7 +1001,13 @@ D. There has been no **response** to his remarks from the government.
 
 ​    Risk compensation is the idea that individuals tend to adjust their behavior in response to what they perceive as changes in the level of risk. Imagine, what would happen if safety regulations **were to** require all cars to be made of cardboard, fitted with **inefficient** brakes and with a sharp spike in the center of the steering column; if all roads were **paved** with a substance having the same friction coefficient as ice, and if all drivers were **obliged** to change every other month or, better yet, if there were no rules about which of the road to drive on. The **evidence** suggests that there would be no increase, and possibly a **decrease**, in road accident fatalities, but there would be a **substantial** decrease in the efficiency of the road transport system. It seems that the **potential** safety benefit of most improvements to roads or vehicles is **consumed** as a performance benefit. As a result of safety improvements, it is now **possible** to travel farther and faster with approximately **the same** risk of being killed.
 
-
+| 英文                                                         | 中文                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Risk compensation is the idea that individuals tend to adjust their behavior in response to what they perceive as changes in the level of risk. | 风险补偿是指个人往往会根据他们认为的风险水平变化来调整自己的行为。 |
+| Imagine, what would happen if safety regulations **were to** require all cars to be made of cardboard, fitted with **inefficient** brakes and with a sharp spike in the center of the steering column; if all roads were **paved** with a substance having the same friction coefficient as ice, and if all drivers were **obliged** to change every other month or, better yet, if there were no rules about which of the road to drive on. | 想象一下，如果安全规定**要求**所有汽车都用纸板做成，配备**低效**的刹车，并且方向盘中央有一个尖锐的刺；如果所有的道路都被**铺设**成具有与冰相同摩擦系数的物质，如果所有的司机**有义务**每两个月换一次车，或者更好的是，如果没有关于行驶哪条路的规定会发生什么。 |
+| The **evidence** suggests that there would be no increase, and possibly a **decrease**, in road accident fatalities, but there would be a **substantial** decrease in the efficiency of the road transport system. | **证据**表明，交通事故死亡人数不会增加，甚至可能会**减少**，但道路运输系统的效率会**显著**下降。 |
+| It seems that the **potential** safety benefit of most improvements to roads or vehicles is **consumed** as a performance benefit. | 看起来，大多数道路或车辆改进的**潜在**安全效益被作为性能效益**消耗**掉了。 |
+| As a result of safety improvements, it is now **possible** to travel farther and faster with approximately **the same** risk of being killed. | 由于安全改进，现在**可能**以大致相同的死亡风险行驶得更远、更快。 |
 
 **were to** - 假设，要求
 
@@ -1238,21 +1244,3 @@ imperative        diffusion     vulnerability      foremost         underlie
 | **Nationally** one of every two African American and Hispanic students drops out of high school. | 在**全国**范围内，每两个非裔美国人和西班牙裔学生中就有一个从高中辍学。 | **nation**                 |
 | If we are a nation **dedicated** to equality, we cannot be satisfied with the status quo. | 如果我们是一个**致力**于平等的国家，我们不能对现状感到满足。 | **dedicate**               |
 | Helping more students make it to college and succeed there is a morally urgent challenge. | 帮助更多的学生进入大学并在那里取得成功是一个道义上紧迫的挑战。 |                            |
-
-**deep** 在文中指的是教育的价值远超金钱和人力资本的层面，强调其内在的深度和意义。
-
-**potential** 体现了教育能够激发个体的潜力，使其有可能在未来实现更高的成就。
-
-**contribute** 强调通过教育，个体能够为社会和国家作出积极的贡献。
-
-**explore** 则指教育为学生提供了探索知识、发现兴趣的机会。
-
-**productive** 在此指教育对于社会经济和文化的有益成果。
-
-**likely** 表示可能性，强调教育对国家发展和机构力量的促进作用。
-
-**nation** 强调国家层面的重要性，指国家的发展与教育紧密相关。
-
-**dedicate** 表示国家应该致力于推进平等和教育机会的均等化。
-
-**production** 在这里指教育系统中辍学的现象，这些现象直接影响国家未来的社会与经济发展。
